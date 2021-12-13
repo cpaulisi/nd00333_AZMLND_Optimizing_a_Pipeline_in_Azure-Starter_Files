@@ -41,5 +41,5 @@ datastore_path = "https://automlsamplenotebookdata.blob.core.windows.net/automl-
 dataset = TabularDatasetFactory.from_delimited_files(path=datastore_path, support_multi_line=True)
 print(dataset.to_pandas_dataframe().head())
 x, y = clean_data(dataset)
-print(x)
-print(y)
+x['y'] = y
+print("complete")
