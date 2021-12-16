@@ -30,3 +30,4 @@ As suggested by the AutoML output, class imbalance handling could improve the mo
 
 ## Proof of cluster clean up
 
+![Screen Shot 2021-12-16 at 6 40 20 PM](https://user-images.githubusercontent.com/87383001/146465129-064a0af4-cce4-4e32-9544-512f92ac5f39.png)
